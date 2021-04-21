@@ -1,0 +1,22 @@
+.search {
+    color: rgb(66, 197, 197);
+    border-color: rgb(66,197,197);
+    border-style: ridge;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 9%;
+}
+
+.plus{
+    color: white;
+    background-color: lightseagreen;
+    border-radius: 50%;
+    border: none;
+}
+.create {
+    color: white;
+    background-color: rgb(63, 65, 182);
+    width: 8%;
+    box-shadow: 10px 5px 5px black;
+}
