@@ -1,0 +1,61 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    height: 380px; 
+    width: 900px;
+    background-color: white;
+    border: 2px solid #0000;
+    border-style: groove;
+    border-color: black;
+    position: center;
+    margin: auto;
+}
+.box1{
+    background-color: rgb(100, 199, 199);
+    height: 25%;
+    width: 100%;
+}
+.usercircle{
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    top: 60px;
+    margin-left: 30px;
+    border-color: white;
+}
+
+h1 {
+    font-size: 20px;
+    color: black;
+    margin-top: 70px;
+    padding-left: 15px;
+}
+
+.location_marker{
+    position: fixed;
+    top: 210px;
+    height: 30px;
+    width: 20px;
+    margin-left: 10px;
+}
+
+.location{
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+p {
+    padding-left: 15px;
+    font-style: none;
+}
+.gear{
+    width: 1px;
+    height: 1px;
+}
+
+.setting{
+    margin-left: 10px;
+    margin-right: 25px;
+}
