@@ -1,0 +1,33 @@
+img{
+    height: 500px;
+    width: 800px;
+}
+p {
+    background-color: rgb(187, 125, 32);
+    color: deepskyblue;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 300px;
+    font-size: 40px;
+    height: 100px;
+    width: 400px;
+    align-items: center;
+}
+.minus
+    {
+        height: 100px;
+        width: 100px;
+        font-size: 80px;
+        background-color: darksalmon;
+        color: deepskyblue;
+    }
+.plus{
+    height: 100px;
+    width: 100px;
+    font-size: 80px;
+    background-color: darksalmon;
+    color: deepskyblue;
+}
+.main{
+    align-items: center;
+}
