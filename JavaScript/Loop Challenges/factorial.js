@@ -9,3 +9,4 @@ function multiplyValues(){
     return n;
 }
 console.log(multiplyValues());
+//last step
